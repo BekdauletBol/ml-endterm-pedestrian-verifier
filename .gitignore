@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+raw_coco/
+*.html
+.DS_Store

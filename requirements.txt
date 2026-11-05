@@ -1,0 +1,11 @@
+torch>=2.2
+torchvision>=0.17
+numpy
+pandas
+pyarrow
+pillow
+scikit-learn
+matplotlib
+seaborn
+jupyter
+ultralytics>=8.1   # only for the practical part (YOLOv8n)
